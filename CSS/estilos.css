@@ -1,5 +1,5 @@
 
-/* 1. CONFIGURACIÓN GENERAL */
+/* 1. Configuracion general */
 
 * {
     margin: 0;
@@ -15,7 +15,7 @@ body {
 }
 
 
-/* 2. BARRA DE NAVEGACIÓN */
+/* 2. Barra de navegacion */
 
 .navbar-fucks {
     background-color: #08001a;
@@ -63,7 +63,7 @@ body {
 }
 
 
-/* 3. PORTADA DE INICIO */
+/* 3. Portada inicio */
 
 .hero {
     min-height: 290px;
@@ -89,7 +89,7 @@ body {
 }
 
 
-/* 4. PRESENTACIÓN DE INICIO*/
+/* 4. Presentacion de inicio*/
 
 .presentacion {
     min-height: 500px;
@@ -117,7 +117,7 @@ body {
     font-size: 18px;
 }
 
-/* 5. PIE DE PÁGINA */
+/* 5. Pie de pagina */
 
 .footer {
     background-color: #000;
@@ -140,7 +140,7 @@ body {
 }
 
 
-/* 6. PÁGINA CONTACTOS */
+/* 6. Página de contactos */
 
 .contacto-principal {
     
@@ -174,7 +174,7 @@ body {
 }
 
 
-/* 7. BOTONES DE REDES SOCIALES */
+/* 7. Botones de redes socioales */
 
 .redes-sociales {
     display: flex;
@@ -196,13 +196,13 @@ body {
 }.boton-red:hover {
     transform: translateY(-4px);
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.65);
-    /*Al pasar el cursor, la tarjeta sube ocho píxeles y su sombra aumenta.*/
+    /*al pasar el cursor, la tarjeta sube ocho pixeles y su sombra aumenta.*/
     transition: all 0.3s ease;
 
 }
 
 .boton-red i {
-    /*Aumenta el tamaño de los iconos*/
+    /*aumenta el tamaño de los iconos*/
     font-size: 22px;
 }
 
@@ -224,7 +224,7 @@ body {
 }
 
 
-/* 8. IMAGEN DE CONTACTOS */
+/* 8. Imagen contactos */
 
 .contacto-imagen {
     display: flex;
@@ -241,7 +241,7 @@ body {
 }
 
 
-/* 9. PÁGINA SHOWS */
+/* 9. Pagina de shows */
 
 .shows-principal {
     padding: 40px 0 45px;
@@ -271,7 +271,7 @@ body {
 .show-card {
     border-radius: 12px;
     overflow: hidden;
-    /*Oculta lo que sobre sale de los limites redondeados*/
+    /*oculta lo que sobre sale de los limites redondeados*/
     transition: all 0.3s ease;
 }
 
@@ -289,7 +289,7 @@ body {
 
 
 
-/* 11. ADAPTACIÓN PARA CELULAR */
+/* 11. Adaptacion para celular */
 
 @media (max-width: 768px) {
 
